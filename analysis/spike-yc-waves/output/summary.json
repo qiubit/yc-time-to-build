@@ -1,0 +1,586 @@
+{
+  "source": {
+    "yc_oss_api": "https://yc-oss.github.io/api/companies/all.json",
+    "yc_oss_readme": "https://github.com/yc-oss/api",
+    "last_updated": "2026-05-25T02:36:05.148Z",
+    "downloaded_companies": 5926,
+    "included_companies": 5916,
+    "included_batches": 46,
+    "excluded_batches": [
+      "Fall 2026",
+      "Summer 2026",
+      "Unspecified",
+      "Winter 2027"
+    ]
+  },
+  "status_counts": {
+    "Active": 4077,
+    "Acquired": 781,
+    "Inactive": 1035,
+    "Public": 23
+  },
+  "top_company_count": 91,
+  "mode_summaries": [
+    {
+      "mode": "strict",
+      "waves": {
+        "Web / Social / UGC": {
+          "peak_batch": "Summer 2006",
+          "peak_pct": 0.6364,
+          "peak_count": 7,
+          "first_batch_at_or_above_2pct": "Summer 2005",
+          "first_batch_at_or_above_10pct": "Summer 2005",
+          "first_batch_at_or_above_20pct": "Summer 2005",
+          "spring_2026_pct": 0.0291
+        },
+        "Mobile-Enabled Commerce / Marketplaces": {
+          "peak_batch": "Winter 2013",
+          "peak_pct": 0.3478,
+          "peak_count": 16,
+          "first_batch_at_or_above_2pct": "Summer 2006",
+          "first_batch_at_or_above_10pct": "Summer 2008",
+          "first_batch_at_or_above_20pct": "Winter 2009",
+          "spring_2026_pct": 0.0988
+        },
+        "Fintech": {
+          "peak_batch": "Winter 2022",
+          "peak_pct": 0.2437,
+          "peak_count": 97,
+          "first_batch_at_or_above_2pct": "Summer 2005",
+          "first_batch_at_or_above_10pct": "Summer 2005",
+          "first_batch_at_or_above_20pct": "Summer 2021",
+          "spring_2026_pct": 0.0814
+        },
+        "Crypto / Web3": {
+          "peak_batch": "Summer 2022",
+          "peak_pct": 0.0684,
+          "peak_count": 16,
+          "first_batch_at_or_above_2pct": "Summer 2009",
+          "first_batch_at_or_above_10pct": null,
+          "first_batch_at_or_above_20pct": null,
+          "spring_2026_pct": 0.0116
+        },
+        "Generative AI / Agents": {
+          "peak_batch": "Winter 2023",
+          "peak_pct": 0.2336,
+          "peak_count": 64,
+          "first_batch_at_or_above_2pct": "Winter 2014",
+          "first_batch_at_or_above_10pct": "Summer 2022",
+          "first_batch_at_or_above_20pct": "Winter 2023",
+          "spring_2026_pct": 0.1279
+        }
+      }
+    },
+    {
+      "mode": "broad",
+      "waves": {
+        "Web / Social / UGC": {
+          "peak_batch": "Summer 2006",
+          "peak_pct": 0.7273,
+          "peak_count": 8,
+          "first_batch_at_or_above_2pct": "Summer 2005",
+          "first_batch_at_or_above_10pct": "Summer 2005",
+          "first_batch_at_or_above_20pct": "Summer 2005",
+          "spring_2026_pct": 0.0581
+        },
+        "Mobile-Enabled Commerce / Marketplaces": {
+          "peak_batch": "Winter 2011",
+          "peak_pct": 0.4,
+          "peak_count": 18,
+          "first_batch_at_or_above_2pct": "Winter 2006",
+          "first_batch_at_or_above_10pct": "Winter 2006",
+          "first_batch_at_or_above_20pct": "Winter 2009",
+          "spring_2026_pct": 0.0814
+        },
+        "Fintech": {
+          "peak_batch": "Summer 2021",
+          "peak_pct": 0.2685,
+          "peak_count": 105,
+          "first_batch_at_or_above_2pct": "Summer 2005",
+          "first_batch_at_or_above_10pct": "Summer 2005",
+          "first_batch_at_or_above_20pct": "Winter 2020",
+          "spring_2026_pct": 0.0581
+        },
+        "Crypto / Web3": {
+          "peak_batch": "Summer 2022",
+          "peak_pct": 0.0726,
+          "peak_count": 17,
+          "first_batch_at_or_above_2pct": "Summer 2009",
+          "first_batch_at_or_above_10pct": null,
+          "first_batch_at_or_above_20pct": null,
+          "spring_2026_pct": 0.0116
+        },
+        "Generative AI / Agents": {
+          "peak_batch": "Spring 2026",
+          "peak_pct": 0.4651,
+          "peak_count": 80,
+          "first_batch_at_or_above_2pct": "Summer 2010",
+          "first_batch_at_or_above_10pct": "Summer 2021",
+          "first_batch_at_or_above_20pct": "Summer 2022",
+          "spring_2026_pct": 0.4651
+        }
+      }
+    }
+  ],
+  "latest_batch": {
+    "batch": "Spring 2026",
+    "total_companies": 172,
+    "strict_wave_counts": {
+      "Generative AI / Agents": 22,
+      "Other": 112,
+      "Fintech": 14,
+      "Crypto / Web3": 2,
+      "Mobile-Enabled Commerce / Marketplaces": 17,
+      "Web / Social / UGC": 5
+    },
+    "broad_wave_counts": {
+      "Generative AI / Agents": 80,
+      "Mobile-Enabled Commerce / Marketplaces": 14,
+      "Other": 56,
+      "Web / Social / UGC": 10,
+      "Fintech": 10,
+      "Crypto / Web3": 2
+    }
+  },
+  "genai_broad_background_sectors": [
+    {
+      "sector": "B2B / Enterprise",
+      "count": 502,
+      "pct_of_genai_broad": 0.46828358208955223
+    },
+    {
+      "sector": "Developer Tools / Infrastructure",
+      "count": 255,
+      "pct_of_genai_broad": 0.23787313432835822
+    },
+    {
+      "sector": "Fintech",
+      "count": 119,
+      "pct_of_genai_broad": 0.11100746268656717
+    },
+    {
+      "sector": "Healthcare",
+      "count": 87,
+      "pct_of_genai_broad": 0.08115671641791045
+    },
+    {
+      "sector": "Consumer / Media / Education",
+      "count": 72,
+      "pct_of_genai_broad": 0.06716417910447761
+    },
+    {
+      "sector": "Industrials / Hard Tech",
+      "count": 17,
+      "pct_of_genai_broad": 0.01585820895522388
+    },
+    {
+      "sector": "Real Estate / Construction",
+      "count": 13,
+      "pct_of_genai_broad": 0.012126865671641791
+    },
+    {
+      "sector": "Commerce / Marketplace / Logistics",
+      "count": 4,
+      "pct_of_genai_broad": 0.0037313432835820895
+    },
+    {
+      "sector": "Legal / Gov",
+      "count": 3,
+      "pct_of_genai_broad": 0.002798507462686567
+    }
+  ],
+  "outcome_proxies": {
+    "strict_all": [
+      {
+        "mode": "strict",
+        "cohort_filter": "all_included_batches",
+        "wave": "Web / Social / UGC",
+        "company_count": 403,
+        "top_company_count": 7,
+        "top_company_rate": 0.017369727047146403,
+        "public_count": 0,
+        "public_rate": 0.0,
+        "acquired_count": 90,
+        "acquired_rate": 0.22332506203473945,
+        "public_or_acquired_count": 90,
+        "public_or_acquired_rate": 0.22332506203473945,
+        "inactive_count": 151,
+        "inactive_rate": 0.3746898263027295
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "all_included_batches",
+        "wave": "Mobile-Enabled Commerce / Marketplaces",
+        "company_count": 867,
+        "top_company_count": 18,
+        "top_company_rate": 0.020761245674740483,
+        "public_count": 6,
+        "public_rate": 0.006920415224913495,
+        "acquired_count": 117,
+        "acquired_rate": 0.13494809688581316,
+        "public_or_acquired_count": 123,
+        "public_or_acquired_rate": 0.14186851211072665,
+        "inactive_count": 222,
+        "inactive_rate": 0.2560553633217993
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "all_included_batches",
+        "wave": "Fintech",
+        "company_count": 845,
+        "top_company_count": 18,
+        "top_company_rate": 0.021301775147928994,
+        "public_count": 1,
+        "public_rate": 0.001183431952662722,
+        "acquired_count": 109,
+        "acquired_rate": 0.1289940828402367,
+        "public_or_acquired_count": 110,
+        "public_or_acquired_rate": 0.1301775147928994,
+        "inactive_count": 102,
+        "inactive_rate": 0.12071005917159763
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "all_included_batches",
+        "wave": "Crypto / Web3",
+        "company_count": 158,
+        "top_company_count": 2,
+        "top_company_rate": 0.012658227848101266,
+        "public_count": 1,
+        "public_rate": 0.006329113924050633,
+        "acquired_count": 22,
+        "acquired_rate": 0.13924050632911392,
+        "public_or_acquired_count": 23,
+        "public_or_acquired_rate": 0.14556962025316456,
+        "inactive_count": 29,
+        "inactive_rate": 0.18354430379746836
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "all_included_batches",
+        "wave": "Generative AI / Agents",
+        "company_count": 436,
+        "top_company_count": 0,
+        "top_company_rate": 0.0,
+        "public_count": 0,
+        "public_rate": 0.0,
+        "acquired_count": 32,
+        "acquired_rate": 0.07339449541284404,
+        "public_or_acquired_count": 32,
+        "public_or_acquired_rate": 0.07339449541284404,
+        "inactive_count": 40,
+        "inactive_rate": 0.09174311926605505
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "all_included_batches",
+        "wave": "Other",
+        "company_count": 3207,
+        "top_company_count": 46,
+        "top_company_rate": 0.014343623323978797,
+        "public_count": 15,
+        "public_rate": 0.004677268475210477,
+        "acquired_count": 411,
+        "acquired_rate": 0.12815715622076707,
+        "public_or_acquired_count": 426,
+        "public_or_acquired_rate": 0.13283442469597756,
+        "inactive_count": 491,
+        "inactive_rate": 0.15310258808855629
+      }
+    ],
+    "broad_all": [
+      {
+        "mode": "broad",
+        "cohort_filter": "all_included_batches",
+        "wave": "Web / Social / UGC",
+        "company_count": 670,
+        "top_company_count": 11,
+        "top_company_rate": 0.016417910447761194,
+        "public_count": 1,
+        "public_rate": 0.0014925373134328358,
+        "acquired_count": 137,
+        "acquired_rate": 0.2044776119402985,
+        "public_or_acquired_count": 138,
+        "public_or_acquired_rate": 0.20597014925373133,
+        "inactive_count": 198,
+        "inactive_rate": 0.2955223880597015
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "all_included_batches",
+        "wave": "Mobile-Enabled Commerce / Marketplaces",
+        "company_count": 945,
+        "top_company_count": 20,
+        "top_company_rate": 0.021164021164021163,
+        "public_count": 5,
+        "public_rate": 0.005291005291005291,
+        "acquired_count": 142,
+        "acquired_rate": 0.15026455026455027,
+        "public_or_acquired_count": 147,
+        "public_or_acquired_rate": 0.15555555555555556,
+        "inactive_count": 244,
+        "inactive_rate": 0.2582010582010582
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "all_included_batches",
+        "wave": "Fintech",
+        "company_count": 937,
+        "top_company_count": 22,
+        "top_company_rate": 0.023479188900747065,
+        "public_count": 3,
+        "public_rate": 0.0032017075773745998,
+        "acquired_count": 130,
+        "acquired_rate": 0.13874066168623267,
+        "public_or_acquired_count": 133,
+        "public_or_acquired_rate": 0.14194236926360726,
+        "inactive_count": 122,
+        "inactive_rate": 0.13020277481323372
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "all_included_batches",
+        "wave": "Crypto / Web3",
+        "company_count": 171,
+        "top_company_count": 2,
+        "top_company_rate": 0.011695906432748537,
+        "public_count": 1,
+        "public_rate": 0.005847953216374269,
+        "acquired_count": 25,
+        "acquired_rate": 0.14619883040935672,
+        "public_or_acquired_count": 26,
+        "public_or_acquired_rate": 0.15204678362573099,
+        "inactive_count": 30,
+        "inactive_rate": 0.17543859649122806
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "all_included_batches",
+        "wave": "Generative AI / Agents",
+        "company_count": 1072,
+        "top_company_count": 1,
+        "top_company_rate": 0.0009328358208955224,
+        "public_count": 1,
+        "public_rate": 0.0009328358208955224,
+        "acquired_count": 53,
+        "acquired_rate": 0.049440298507462684,
+        "public_or_acquired_count": 54,
+        "public_or_acquired_rate": 0.05037313432835821,
+        "inactive_count": 58,
+        "inactive_rate": 0.054104477611940295
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "all_included_batches",
+        "wave": "Other",
+        "company_count": 2121,
+        "top_company_count": 35,
+        "top_company_rate": 0.0165016501650165,
+        "public_count": 12,
+        "public_rate": 0.005657708628005658,
+        "acquired_count": 294,
+        "acquired_rate": 0.13861386138613863,
+        "public_or_acquired_count": 306,
+        "public_or_acquired_rate": 0.14427157001414428,
+        "inactive_count": 383,
+        "inactive_rate": 0.18057520037718058
+      }
+    ],
+    "strict_through_2020": [
+      {
+        "mode": "strict",
+        "cohort_filter": "through_2020",
+        "wave": "Web / Social / UGC",
+        "company_count": 285,
+        "top_company_count": 7,
+        "top_company_rate": 0.02456140350877193,
+        "public_count": 0,
+        "public_rate": 0.0,
+        "acquired_count": 80,
+        "acquired_rate": 0.2807017543859649,
+        "public_or_acquired_count": 80,
+        "public_or_acquired_rate": 0.2807017543859649,
+        "inactive_count": 137,
+        "inactive_rate": 0.4807017543859649
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "through_2020",
+        "wave": "Mobile-Enabled Commerce / Marketplaces",
+        "company_count": 503,
+        "top_company_count": 17,
+        "top_company_rate": 0.033797216699801194,
+        "public_count": 6,
+        "public_rate": 0.011928429423459244,
+        "acquired_count": 98,
+        "acquired_rate": 0.19483101391650098,
+        "public_or_acquired_count": 104,
+        "public_or_acquired_rate": 0.20675944333996024,
+        "inactive_count": 175,
+        "inactive_rate": 0.34791252485089463
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "through_2020",
+        "wave": "Fintech",
+        "company_count": 315,
+        "top_company_count": 18,
+        "top_company_rate": 0.05714285714285714,
+        "public_count": 1,
+        "public_rate": 0.0031746031746031746,
+        "acquired_count": 78,
+        "acquired_rate": 0.24761904761904763,
+        "public_or_acquired_count": 79,
+        "public_or_acquired_rate": 0.2507936507936508,
+        "inactive_count": 56,
+        "inactive_rate": 0.17777777777777778
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "through_2020",
+        "wave": "Crypto / Web3",
+        "company_count": 67,
+        "top_company_count": 2,
+        "top_company_rate": 0.029850746268656716,
+        "public_count": 1,
+        "public_rate": 0.014925373134328358,
+        "acquired_count": 13,
+        "acquired_rate": 0.19402985074626866,
+        "public_or_acquired_count": 14,
+        "public_or_acquired_rate": 0.208955223880597,
+        "inactive_count": 14,
+        "inactive_rate": 0.208955223880597
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "through_2020",
+        "wave": "Generative AI / Agents",
+        "company_count": 53,
+        "top_company_count": 0,
+        "top_company_rate": 0.0,
+        "public_count": 0,
+        "public_rate": 0.0,
+        "acquired_count": 11,
+        "acquired_rate": 0.20754716981132076,
+        "public_or_acquired_count": 11,
+        "public_or_acquired_rate": 0.20754716981132076,
+        "inactive_count": 7,
+        "inactive_rate": 0.1320754716981132
+      },
+      {
+        "mode": "strict",
+        "cohort_filter": "through_2020",
+        "wave": "Other",
+        "company_count": 1253,
+        "top_company_count": 45,
+        "top_company_rate": 0.035913806863527534,
+        "public_count": 15,
+        "public_rate": 0.011971268954509178,
+        "acquired_count": 312,
+        "acquired_rate": 0.2490023942537909,
+        "public_or_acquired_count": 327,
+        "public_or_acquired_rate": 0.26097366320830007,
+        "inactive_count": 360,
+        "inactive_rate": 0.28731045490822027
+      }
+    ],
+    "broad_through_2020": [
+      {
+        "mode": "broad",
+        "cohort_filter": "through_2020",
+        "wave": "Web / Social / UGC",
+        "company_count": 429,
+        "top_company_count": 11,
+        "top_company_rate": 0.02564102564102564,
+        "public_count": 1,
+        "public_rate": 0.002331002331002331,
+        "acquired_count": 120,
+        "acquired_rate": 0.27972027972027974,
+        "public_or_acquired_count": 121,
+        "public_or_acquired_rate": 0.28205128205128205,
+        "inactive_count": 171,
+        "inactive_rate": 0.3986013986013986
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "through_2020",
+        "wave": "Mobile-Enabled Commerce / Marketplaces",
+        "company_count": 579,
+        "top_company_count": 19,
+        "top_company_rate": 0.03281519861830743,
+        "public_count": 5,
+        "public_rate": 0.008635578583765112,
+        "acquired_count": 120,
+        "acquired_rate": 0.20725388601036268,
+        "public_or_acquired_count": 125,
+        "public_or_acquired_rate": 0.2158894645941278,
+        "inactive_count": 198,
+        "inactive_rate": 0.34196891191709844
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "through_2020",
+        "wave": "Fintech",
+        "company_count": 382,
+        "top_company_count": 22,
+        "top_company_rate": 0.05759162303664921,
+        "public_count": 3,
+        "public_rate": 0.007853403141361256,
+        "acquired_count": 94,
+        "acquired_rate": 0.24607329842931938,
+        "public_or_acquired_count": 97,
+        "public_or_acquired_rate": 0.25392670157068065,
+        "inactive_count": 69,
+        "inactive_rate": 0.1806282722513089
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "through_2020",
+        "wave": "Crypto / Web3",
+        "company_count": 72,
+        "top_company_count": 2,
+        "top_company_rate": 0.027777777777777776,
+        "public_count": 1,
+        "public_rate": 0.013888888888888888,
+        "acquired_count": 14,
+        "acquired_rate": 0.19444444444444445,
+        "public_or_acquired_count": 15,
+        "public_or_acquired_rate": 0.20833333333333334,
+        "inactive_count": 15,
+        "inactive_rate": 0.20833333333333334
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "through_2020",
+        "wave": "Generative AI / Agents",
+        "company_count": 101,
+        "top_company_count": 1,
+        "top_company_rate": 0.009900990099009901,
+        "public_count": 1,
+        "public_rate": 0.009900990099009901,
+        "acquired_count": 15,
+        "acquired_rate": 0.1485148514851485,
+        "public_or_acquired_count": 16,
+        "public_or_acquired_rate": 0.15841584158415842,
+        "inactive_count": 8,
+        "inactive_rate": 0.07920792079207921
+      },
+      {
+        "mode": "broad",
+        "cohort_filter": "through_2020",
+        "wave": "Other",
+        "company_count": 913,
+        "top_company_count": 34,
+        "top_company_rate": 0.03723986856516977,
+        "public_count": 12,
+        "public_rate": 0.013143483023001095,
+        "acquired_count": 229,
+        "acquired_rate": 0.2508214676889376,
+        "public_or_acquired_count": 241,
+        "public_or_acquired_rate": 0.26396495071193865,
+        "inactive_count": 288,
+        "inactive_rate": 0.3154435925520263
+      }
+    ]
+  }
+}

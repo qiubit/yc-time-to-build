@@ -1,0 +1,277 @@
+batch,batch_code,year,season,season_order,total_companies,wave,count,pct
+Summer 2005,S05,2005,Summer,2,9,Web / Social / UGC,4,0.4444444444444444
+Summer 2005,S05,2005,Summer,2,9,Mobile-Enabled Commerce / Marketplaces,0,0.0
+Summer 2005,S05,2005,Summer,2,9,Fintech,1,0.1111111111111111
+Summer 2005,S05,2005,Summer,2,9,Crypto / Web3,0,0.0
+Summer 2005,S05,2005,Summer,2,9,Generative AI / Agents,0,0.0
+Summer 2005,S05,2005,Summer,2,9,Other,4,0.4444444444444444
+Winter 2006,W06,2006,Winter,0,7,Web / Social / UGC,3,0.42857142857142855
+Winter 2006,W06,2006,Winter,0,7,Mobile-Enabled Commerce / Marketplaces,1,0.14285714285714285
+Winter 2006,W06,2006,Winter,0,7,Fintech,1,0.14285714285714285
+Winter 2006,W06,2006,Winter,0,7,Crypto / Web3,0,0.0
+Winter 2006,W06,2006,Winter,0,7,Generative AI / Agents,0,0.0
+Winter 2006,W06,2006,Winter,0,7,Other,2,0.2857142857142857
+Summer 2006,S06,2006,Summer,2,11,Web / Social / UGC,8,0.7272727272727273
+Summer 2006,S06,2006,Summer,2,11,Mobile-Enabled Commerce / Marketplaces,1,0.09090909090909091
+Summer 2006,S06,2006,Summer,2,11,Fintech,0,0.0
+Summer 2006,S06,2006,Summer,2,11,Crypto / Web3,0,0.0
+Summer 2006,S06,2006,Summer,2,11,Generative AI / Agents,0,0.0
+Summer 2006,S06,2006,Summer,2,11,Other,2,0.18181818181818182
+Winter 2007,W07,2007,Winter,0,13,Web / Social / UGC,7,0.5384615384615384
+Winter 2007,W07,2007,Winter,0,13,Mobile-Enabled Commerce / Marketplaces,2,0.15384615384615385
+Winter 2007,W07,2007,Winter,0,13,Fintech,1,0.07692307692307693
+Winter 2007,W07,2007,Winter,0,13,Crypto / Web3,0,0.0
+Winter 2007,W07,2007,Winter,0,13,Generative AI / Agents,0,0.0
+Winter 2007,W07,2007,Winter,0,13,Other,3,0.23076923076923078
+Summer 2007,S07,2007,Summer,2,19,Web / Social / UGC,10,0.5263157894736842
+Summer 2007,S07,2007,Summer,2,19,Mobile-Enabled Commerce / Marketplaces,1,0.05263157894736842
+Summer 2007,S07,2007,Summer,2,19,Fintech,1,0.05263157894736842
+Summer 2007,S07,2007,Summer,2,19,Crypto / Web3,0,0.0
+Summer 2007,S07,2007,Summer,2,19,Generative AI / Agents,0,0.0
+Summer 2007,S07,2007,Summer,2,19,Other,7,0.3684210526315789
+Winter 2008,W08,2008,Winter,0,21,Web / Social / UGC,9,0.42857142857142855
+Winter 2008,W08,2008,Winter,0,21,Mobile-Enabled Commerce / Marketplaces,2,0.09523809523809523
+Winter 2008,W08,2008,Winter,0,21,Fintech,2,0.09523809523809523
+Winter 2008,W08,2008,Winter,0,21,Crypto / Web3,0,0.0
+Winter 2008,W08,2008,Winter,0,21,Generative AI / Agents,0,0.0
+Winter 2008,W08,2008,Winter,0,21,Other,8,0.38095238095238093
+Summer 2008,S08,2008,Summer,2,22,Web / Social / UGC,10,0.45454545454545453
+Summer 2008,S08,2008,Summer,2,22,Mobile-Enabled Commerce / Marketplaces,4,0.18181818181818182
+Summer 2008,S08,2008,Summer,2,22,Fintech,0,0.0
+Summer 2008,S08,2008,Summer,2,22,Crypto / Web3,0,0.0
+Summer 2008,S08,2008,Summer,2,22,Generative AI / Agents,0,0.0
+Summer 2008,S08,2008,Summer,2,22,Other,8,0.36363636363636365
+Winter 2009,W09,2009,Winter,0,16,Web / Social / UGC,7,0.4375
+Winter 2009,W09,2009,Winter,0,16,Mobile-Enabled Commerce / Marketplaces,5,0.3125
+Winter 2009,W09,2009,Winter,0,16,Fintech,0,0.0
+Winter 2009,W09,2009,Winter,0,16,Crypto / Web3,0,0.0
+Winter 2009,W09,2009,Winter,0,16,Generative AI / Agents,0,0.0
+Winter 2009,W09,2009,Winter,0,16,Other,4,0.25
+Summer 2009,S09,2009,Summer,2,26,Web / Social / UGC,6,0.23076923076923078
+Summer 2009,S09,2009,Summer,2,26,Mobile-Enabled Commerce / Marketplaces,6,0.23076923076923078
+Summer 2009,S09,2009,Summer,2,26,Fintech,3,0.11538461538461539
+Summer 2009,S09,2009,Summer,2,26,Crypto / Web3,1,0.038461538461538464
+Summer 2009,S09,2009,Summer,2,26,Generative AI / Agents,0,0.0
+Summer 2009,S09,2009,Summer,2,26,Other,10,0.38461538461538464
+Winter 2010,W10,2010,Winter,0,27,Web / Social / UGC,13,0.48148148148148145
+Winter 2010,W10,2010,Winter,0,27,Mobile-Enabled Commerce / Marketplaces,9,0.3333333333333333
+Winter 2010,W10,2010,Winter,0,27,Fintech,0,0.0
+Winter 2010,W10,2010,Winter,0,27,Crypto / Web3,0,0.0
+Winter 2010,W10,2010,Winter,0,27,Generative AI / Agents,0,0.0
+Winter 2010,W10,2010,Winter,0,27,Other,5,0.18518518518518517
+Summer 2010,S10,2010,Summer,2,36,Web / Social / UGC,13,0.3611111111111111
+Summer 2010,S10,2010,Summer,2,36,Mobile-Enabled Commerce / Marketplaces,7,0.19444444444444445
+Summer 2010,S10,2010,Summer,2,36,Fintech,3,0.08333333333333333
+Summer 2010,S10,2010,Summer,2,36,Crypto / Web3,0,0.0
+Summer 2010,S10,2010,Summer,2,36,Generative AI / Agents,1,0.027777777777777776
+Summer 2010,S10,2010,Summer,2,36,Other,12,0.3333333333333333
+Winter 2011,W11,2011,Winter,0,45,Web / Social / UGC,11,0.24444444444444444
+Winter 2011,W11,2011,Winter,0,45,Mobile-Enabled Commerce / Marketplaces,18,0.4
+Winter 2011,W11,2011,Winter,0,45,Fintech,5,0.1111111111111111
+Winter 2011,W11,2011,Winter,0,45,Crypto / Web3,0,0.0
+Winter 2011,W11,2011,Winter,0,45,Generative AI / Agents,0,0.0
+Winter 2011,W11,2011,Winter,0,45,Other,11,0.24444444444444444
+Summer 2011,S11,2011,Summer,2,60,Web / Social / UGC,18,0.3
+Summer 2011,S11,2011,Summer,2,60,Mobile-Enabled Commerce / Marketplaces,14,0.23333333333333334
+Summer 2011,S11,2011,Summer,2,60,Fintech,7,0.11666666666666667
+Summer 2011,S11,2011,Summer,2,60,Crypto / Web3,0,0.0
+Summer 2011,S11,2011,Summer,2,60,Generative AI / Agents,0,0.0
+Summer 2011,S11,2011,Summer,2,60,Other,21,0.35
+Winter 2012,W12,2012,Winter,0,66,Web / Social / UGC,16,0.24242424242424243
+Winter 2012,W12,2012,Winter,0,66,Mobile-Enabled Commerce / Marketplaces,17,0.25757575757575757
+Winter 2012,W12,2012,Winter,0,66,Fintech,7,0.10606060606060606
+Winter 2012,W12,2012,Winter,0,66,Crypto / Web3,0,0.0
+Winter 2012,W12,2012,Winter,0,66,Generative AI / Agents,0,0.0
+Winter 2012,W12,2012,Winter,0,66,Other,26,0.3939393939393939
+Summer 2012,S12,2012,Summer,2,83,Web / Social / UGC,26,0.3132530120481928
+Summer 2012,S12,2012,Summer,2,83,Mobile-Enabled Commerce / Marketplaces,17,0.20481927710843373
+Summer 2012,S12,2012,Summer,2,83,Fintech,6,0.07228915662650602
+Summer 2012,S12,2012,Summer,2,83,Crypto / Web3,1,0.012048192771084338
+Summer 2012,S12,2012,Summer,2,83,Generative AI / Agents,1,0.012048192771084338
+Summer 2012,S12,2012,Summer,2,83,Other,32,0.3855421686746988
+Winter 2013,W13,2013,Winter,0,46,Web / Social / UGC,2,0.043478260869565216
+Winter 2013,W13,2013,Winter,0,46,Mobile-Enabled Commerce / Marketplaces,16,0.34782608695652173
+Winter 2013,W13,2013,Winter,0,46,Fintech,8,0.17391304347826086
+Winter 2013,W13,2013,Winter,0,46,Crypto / Web3,0,0.0
+Winter 2013,W13,2013,Winter,0,46,Generative AI / Agents,0,0.0
+Winter 2013,W13,2013,Winter,0,46,Other,20,0.43478260869565216
+Summer 2013,S13,2013,Summer,2,52,Web / Social / UGC,10,0.19230769230769232
+Summer 2013,S13,2013,Summer,2,52,Mobile-Enabled Commerce / Marketplaces,16,0.3076923076923077
+Summer 2013,S13,2013,Summer,2,52,Fintech,3,0.057692307692307696
+Summer 2013,S13,2013,Summer,2,52,Crypto / Web3,3,0.057692307692307696
+Summer 2013,S13,2013,Summer,2,52,Generative AI / Agents,0,0.0
+Summer 2013,S13,2013,Summer,2,52,Other,20,0.38461538461538464
+Winter 2014,W14,2014,Winter,0,74,Web / Social / UGC,15,0.20270270270270271
+Winter 2014,W14,2014,Winter,0,74,Mobile-Enabled Commerce / Marketplaces,21,0.28378378378378377
+Winter 2014,W14,2014,Winter,0,74,Fintech,12,0.16216216216216217
+Winter 2014,W14,2014,Winter,0,74,Crypto / Web3,1,0.013513513513513514
+Winter 2014,W14,2014,Winter,0,74,Generative AI / Agents,2,0.02702702702702703
+Winter 2014,W14,2014,Winter,0,74,Other,23,0.3108108108108108
+Summer 2014,S14,2014,Summer,2,78,Web / Social / UGC,9,0.11538461538461539
+Summer 2014,S14,2014,Summer,2,78,Mobile-Enabled Commerce / Marketplaces,17,0.21794871794871795
+Summer 2014,S14,2014,Summer,2,78,Fintech,13,0.16666666666666666
+Summer 2014,S14,2014,Summer,2,78,Crypto / Web3,5,0.0641025641025641
+Summer 2014,S14,2014,Summer,2,78,Generative AI / Agents,2,0.02564102564102564
+Summer 2014,S14,2014,Summer,2,78,Other,32,0.41025641025641024
+Winter 2015,W15,2015,Winter,0,111,Web / Social / UGC,18,0.16216216216216217
+Winter 2015,W15,2015,Winter,0,111,Mobile-Enabled Commerce / Marketplaces,37,0.3333333333333333
+Winter 2015,W15,2015,Winter,0,111,Fintech,18,0.16216216216216217
+Winter 2015,W15,2015,Winter,0,111,Crypto / Web3,4,0.036036036036036036
+Winter 2015,W15,2015,Winter,0,111,Generative AI / Agents,3,0.02702702702702703
+Winter 2015,W15,2015,Winter,0,111,Other,31,0.27927927927927926
+Summer 2015,S15,2015,Summer,2,104,Web / Social / UGC,13,0.125
+Summer 2015,S15,2015,Summer,2,104,Mobile-Enabled Commerce / Marketplaces,28,0.2692307692307692
+Summer 2015,S15,2015,Summer,2,104,Fintech,16,0.15384615384615385
+Summer 2015,S15,2015,Summer,2,104,Crypto / Web3,1,0.009615384615384616
+Summer 2015,S15,2015,Summer,2,104,Generative AI / Agents,0,0.0
+Summer 2015,S15,2015,Summer,2,104,Other,46,0.4423076923076923
+Winter 2016,W16,2016,Winter,0,122,Web / Social / UGC,20,0.16393442622950818
+Winter 2016,W16,2016,Winter,0,122,Mobile-Enabled Commerce / Marketplaces,27,0.22131147540983606
+Winter 2016,W16,2016,Winter,0,122,Fintech,19,0.1557377049180328
+Winter 2016,W16,2016,Winter,0,122,Crypto / Web3,1,0.00819672131147541
+Winter 2016,W16,2016,Winter,0,122,Generative AI / Agents,5,0.040983606557377046
+Winter 2016,W16,2016,Winter,0,122,Other,50,0.4098360655737705
+Summer 2016,S16,2016,Summer,2,102,Web / Social / UGC,20,0.19607843137254902
+Summer 2016,S16,2016,Summer,2,102,Mobile-Enabled Commerce / Marketplaces,29,0.28431372549019607
+Summer 2016,S16,2016,Summer,2,102,Fintech,13,0.12745098039215685
+Summer 2016,S16,2016,Summer,2,102,Crypto / Web3,2,0.0196078431372549
+Summer 2016,S16,2016,Summer,2,102,Generative AI / Agents,4,0.0392156862745098
+Summer 2016,S16,2016,Summer,2,102,Other,34,0.3333333333333333
+Winter 2017,W17,2017,Winter,0,116,Web / Social / UGC,10,0.08620689655172414
+Winter 2017,W17,2017,Winter,0,116,Mobile-Enabled Commerce / Marketplaces,34,0.29310344827586204
+Winter 2017,W17,2017,Winter,0,116,Fintech,22,0.1896551724137931
+Winter 2017,W17,2017,Winter,0,116,Crypto / Web3,4,0.034482758620689655
+Winter 2017,W17,2017,Winter,0,116,Generative AI / Agents,3,0.02586206896551724
+Winter 2017,W17,2017,Winter,0,116,Other,43,0.3706896551724138
+Summer 2017,S17,2017,Summer,2,125,Web / Social / UGC,19,0.152
+Summer 2017,S17,2017,Summer,2,125,Mobile-Enabled Commerce / Marketplaces,31,0.248
+Summer 2017,S17,2017,Summer,2,125,Fintech,20,0.16
+Summer 2017,S17,2017,Summer,2,125,Crypto / Web3,3,0.024
+Summer 2017,S17,2017,Summer,2,125,Generative AI / Agents,6,0.048
+Summer 2017,S17,2017,Summer,2,125,Other,46,0.368
+Winter 2018,W18,2018,Winter,0,146,Web / Social / UGC,23,0.15753424657534246
+Winter 2018,W18,2018,Winter,0,146,Mobile-Enabled Commerce / Marketplaces,31,0.21232876712328766
+Winter 2018,W18,2018,Winter,0,146,Fintech,22,0.1506849315068493
+Winter 2018,W18,2018,Winter,0,146,Crypto / Web3,9,0.06164383561643835
+Winter 2018,W18,2018,Winter,0,146,Generative AI / Agents,8,0.0547945205479452
+Winter 2018,W18,2018,Winter,0,146,Other,53,0.363013698630137
+Summer 2018,S18,2018,Summer,2,131,Web / Social / UGC,16,0.12213740458015267
+Summer 2018,S18,2018,Summer,2,131,Mobile-Enabled Commerce / Marketplaces,28,0.21374045801526717
+Summer 2018,S18,2018,Summer,2,131,Fintech,17,0.1297709923664122
+Summer 2018,S18,2018,Summer,2,131,Crypto / Web3,4,0.030534351145038167
+Summer 2018,S18,2018,Summer,2,131,Generative AI / Agents,11,0.08396946564885496
+Summer 2018,S18,2018,Summer,2,131,Other,55,0.4198473282442748
+Winter 2019,W19,2019,Winter,0,195,Web / Social / UGC,26,0.13333333333333333
+Winter 2019,W19,2019,Winter,0,195,Mobile-Enabled Commerce / Marketplaces,42,0.2153846153846154
+Winter 2019,W19,2019,Winter,0,195,Fintech,37,0.18974358974358974
+Winter 2019,W19,2019,Winter,0,195,Crypto / Web3,6,0.03076923076923077
+Winter 2019,W19,2019,Winter,0,195,Generative AI / Agents,8,0.041025641025641026
+Winter 2019,W19,2019,Winter,0,195,Other,76,0.38974358974358975
+Summer 2019,S19,2019,Summer,2,176,Web / Social / UGC,19,0.10795454545454546
+Summer 2019,S19,2019,Summer,2,176,Mobile-Enabled Commerce / Marketplaces,40,0.22727272727272727
+Summer 2019,S19,2019,Summer,2,176,Fintech,32,0.18181818181818182
+Summer 2019,S19,2019,Summer,2,176,Crypto / Web3,8,0.045454545454545456
+Summer 2019,S19,2019,Summer,2,176,Generative AI / Agents,9,0.05113636363636364
+Summer 2019,S19,2019,Summer,2,176,Other,68,0.38636363636363635
+Winter 2020,W20,2020,Winter,0,229,Web / Social / UGC,24,0.10480349344978165
+Winter 2020,W20,2020,Winter,0,229,Mobile-Enabled Commerce / Marketplaces,42,0.18340611353711792
+Winter 2020,W20,2020,Winter,0,229,Fintech,48,0.2096069868995633
+Winter 2020,W20,2020,Winter,0,229,Crypto / Web3,8,0.034934497816593885
+Winter 2020,W20,2020,Winter,0,229,Generative AI / Agents,19,0.08296943231441048
+Winter 2020,W20,2020,Winter,0,229,Other,88,0.38427947598253276
+Summer 2020,S20,2020,Summer,2,208,Web / Social / UGC,24,0.11538461538461539
+Summer 2020,S20,2020,Summer,2,208,Mobile-Enabled Commerce / Marketplaces,36,0.17307692307692307
+Summer 2020,S20,2020,Summer,2,208,Fintech,45,0.21634615384615385
+Summer 2020,S20,2020,Summer,2,208,Crypto / Web3,11,0.052884615384615384
+Summer 2020,S20,2020,Summer,2,208,Generative AI / Agents,19,0.09134615384615384
+Summer 2020,S20,2020,Summer,2,208,Other,73,0.35096153846153844
+Winter 2021,W21,2021,Winter,0,336,Web / Social / UGC,36,0.10714285714285714
+Winter 2021,W21,2021,Winter,0,336,Mobile-Enabled Commerce / Marketplaces,65,0.19345238095238096
+Winter 2021,W21,2021,Winter,0,336,Fintech,69,0.20535714285714285
+Winter 2021,W21,2021,Winter,0,336,Crypto / Web3,16,0.047619047619047616
+Winter 2021,W21,2021,Winter,0,336,Generative AI / Agents,24,0.07142857142857142
+Winter 2021,W21,2021,Winter,0,336,Other,126,0.375
+Summer 2021,S21,2021,Summer,2,391,Web / Social / UGC,33,0.08439897698209718
+Summer 2021,S21,2021,Summer,2,391,Mobile-Enabled Commerce / Marketplaces,63,0.16112531969309463
+Summer 2021,S21,2021,Summer,2,391,Fintech,105,0.26854219948849106
+Summer 2021,S21,2021,Summer,2,391,Crypto / Web3,16,0.04092071611253197
+Summer 2021,S21,2021,Summer,2,391,Generative AI / Agents,42,0.10741687979539642
+Summer 2021,S21,2021,Summer,2,391,Other,132,0.3375959079283887
+Winter 2022,W22,2022,Winter,0,398,Web / Social / UGC,29,0.0728643216080402
+Winter 2022,W22,2022,Winter,0,398,Mobile-Enabled Commerce / Marketplaces,61,0.15326633165829145
+Winter 2022,W22,2022,Winter,0,398,Fintech,105,0.2638190954773869
+Winter 2022,W22,2022,Winter,0,398,Crypto / Web3,21,0.052763819095477386
+Winter 2022,W22,2022,Winter,0,398,Generative AI / Agents,50,0.12562814070351758
+Winter 2022,W22,2022,Winter,0,398,Other,132,0.3316582914572864
+Summer 2022,S22,2022,Summer,2,234,Web / Social / UGC,14,0.05982905982905983
+Summer 2022,S22,2022,Summer,2,234,Mobile-Enabled Commerce / Marketplaces,27,0.11538461538461539
+Summer 2022,S22,2022,Summer,2,234,Fintech,52,0.2222222222222222
+Summer 2022,S22,2022,Summer,2,234,Crypto / Web3,17,0.07264957264957266
+Summer 2022,S22,2022,Summer,2,234,Generative AI / Agents,60,0.2564102564102564
+Summer 2022,S22,2022,Summer,2,234,Other,64,0.27350427350427353
+Winter 2023,W23,2023,Winter,0,274,Web / Social / UGC,16,0.058394160583941604
+Winter 2023,W23,2023,Winter,0,274,Mobile-Enabled Commerce / Marketplaces,21,0.07664233576642336
+Winter 2023,W23,2023,Winter,0,274,Fintech,49,0.17883211678832117
+Winter 2023,W23,2023,Winter,0,274,Crypto / Web3,7,0.025547445255474453
+Winter 2023,W23,2023,Winter,0,274,Generative AI / Agents,98,0.35766423357664234
+Winter 2023,W23,2023,Winter,0,274,Other,83,0.3029197080291971
+Summer 2023,S23,2023,Summer,2,220,Web / Social / UGC,15,0.06818181818181818
+Summer 2023,S23,2023,Summer,2,220,Mobile-Enabled Commerce / Marketplaces,18,0.08181818181818182
+Summer 2023,S23,2023,Summer,2,220,Fintech,32,0.14545454545454545
+Summer 2023,S23,2023,Summer,2,220,Crypto / Web3,1,0.004545454545454545
+Summer 2023,S23,2023,Summer,2,220,Generative AI / Agents,83,0.37727272727272726
+Summer 2023,S23,2023,Summer,2,220,Other,71,0.32272727272727275
+Winter 2024,W24,2024,Winter,0,249,Web / Social / UGC,21,0.08433734939759036
+Winter 2024,W24,2024,Winter,0,249,Mobile-Enabled Commerce / Marketplaces,16,0.0642570281124498
+Winter 2024,W24,2024,Winter,0,249,Fintech,28,0.11244979919678715
+Winter 2024,W24,2024,Winter,0,249,Crypto / Web3,3,0.012048192771084338
+Winter 2024,W24,2024,Winter,0,249,Generative AI / Agents,91,0.3654618473895582
+Winter 2024,W24,2024,Winter,0,249,Other,90,0.3614457831325301
+Summer 2024,S24,2024,Summer,2,248,Web / Social / UGC,14,0.056451612903225805
+Summer 2024,S24,2024,Summer,2,248,Mobile-Enabled Commerce / Marketplaces,25,0.10080645161290322
+Summer 2024,S24,2024,Summer,2,248,Fintech,27,0.10887096774193548
+Summer 2024,S24,2024,Summer,2,248,Crypto / Web3,2,0.008064516129032258
+Summer 2024,S24,2024,Summer,2,248,Generative AI / Agents,103,0.4153225806451613
+Summer 2024,S24,2024,Summer,2,248,Other,77,0.31048387096774194
+Fall 2024,F24,2024,Fall,3,94,Web / Social / UGC,7,0.07446808510638298
+Fall 2024,F24,2024,Fall,3,94,Mobile-Enabled Commerce / Marketplaces,8,0.0851063829787234
+Fall 2024,F24,2024,Fall,3,94,Fintech,7,0.07446808510638298
+Fall 2024,F24,2024,Fall,3,94,Crypto / Web3,2,0.02127659574468085
+Fall 2024,F24,2024,Fall,3,94,Generative AI / Agents,29,0.30851063829787234
+Fall 2024,F24,2024,Fall,3,94,Other,41,0.43617021276595747
+Winter 2025,W25,2025,Winter,0,168,Web / Social / UGC,7,0.041666666666666664
+Winter 2025,W25,2025,Winter,0,168,Mobile-Enabled Commerce / Marketplaces,6,0.03571428571428571
+Winter 2025,W25,2025,Winter,0,168,Fintech,14,0.08333333333333333
+Winter 2025,W25,2025,Winter,0,168,Crypto / Web3,4,0.023809523809523808
+Winter 2025,W25,2025,Winter,0,168,Generative AI / Agents,65,0.3869047619047619
+Winter 2025,W25,2025,Winter,0,168,Other,72,0.42857142857142855
+Spring 2025,Sp25,2025,Spring,1,144,Web / Social / UGC,9,0.0625
+Spring 2025,Sp25,2025,Spring,1,144,Mobile-Enabled Commerce / Marketplaces,9,0.0625
+Spring 2025,Sp25,2025,Spring,1,144,Fintech,10,0.06944444444444445
+Spring 2025,Sp25,2025,Spring,1,144,Crypto / Web3,1,0.006944444444444444
+Spring 2025,Sp25,2025,Spring,1,144,Generative AI / Agents,50,0.3472222222222222
+Spring 2025,Sp25,2025,Spring,1,144,Other,65,0.4513888888888889
+Summer 2025,S25,2025,Summer,2,166,Web / Social / UGC,10,0.060240963855421686
+Summer 2025,S25,2025,Summer,2,166,Mobile-Enabled Commerce / Marketplaces,12,0.07228915662650602
+Summer 2025,S25,2025,Summer,2,166,Fintech,8,0.04819277108433735
+Summer 2025,S25,2025,Summer,2,166,Crypto / Web3,1,0.006024096385542169
+Summer 2025,S25,2025,Summer,2,166,Generative AI / Agents,73,0.4397590361445783
+Summer 2025,S25,2025,Summer,2,166,Other,62,0.37349397590361444
+Fall 2025,F25,2025,Fall,3,148,Web / Social / UGC,8,0.05405405405405406
+Fall 2025,F25,2025,Fall,3,148,Mobile-Enabled Commerce / Marketplaces,8,0.05405405405405406
+Fall 2025,F25,2025,Fall,3,148,Fintech,16,0.10810810810810811
+Fall 2025,F25,2025,Fall,3,148,Crypto / Web3,2,0.013513513513513514
+Fall 2025,F25,2025,Fall,3,148,Generative AI / Agents,62,0.4189189189189189
+Fall 2025,F25,2025,Fall,3,148,Other,52,0.35135135135135137
+Winter 2026,W26,2026,Winter,0,198,Web / Social / UGC,12,0.06060606060606061
+Winter 2026,W26,2026,Winter,0,198,Mobile-Enabled Commerce / Marketplaces,13,0.06565656565656566
+Winter 2026,W26,2026,Winter,0,198,Fintech,23,0.11616161616161616
+Winter 2026,W26,2026,Winter,0,198,Crypto / Web3,4,0.020202020202020204
+Winter 2026,W26,2026,Winter,0,198,Generative AI / Agents,61,0.30808080808080807
+Winter 2026,W26,2026,Winter,0,198,Other,85,0.4292929292929293
+Spring 2026,Sp26,2026,Spring,1,172,Web / Social / UGC,10,0.05813953488372093
+Spring 2026,Sp26,2026,Spring,1,172,Mobile-Enabled Commerce / Marketplaces,14,0.08139534883720931
+Spring 2026,Sp26,2026,Spring,1,172,Fintech,10,0.05813953488372093
+Spring 2026,Sp26,2026,Spring,1,172,Crypto / Web3,2,0.011627906976744186
+Spring 2026,Sp26,2026,Spring,1,172,Generative AI / Agents,80,0.46511627906976744
+Spring 2026,Sp26,2026,Spring,1,172,Other,56,0.32558139534883723

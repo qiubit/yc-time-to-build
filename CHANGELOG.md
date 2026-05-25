@@ -46,3 +46,16 @@ High-level notes on how this project evolves. This is meant to support a later b
 - Added v1 wave definitions and background-sector categories for cross-sector spread.
 - Rewrote the proposed essay arc around durable waves, cautionary crypto, and the current generative AI / agents wave.
 - Updated open questions, success criteria, next steps, and the final assignment to match the new direction.
+
+### Ran the Disposable YC Wave Validation Spike
+
+- Pulled `yc-oss/api` company data and built a reproducible prototype under `analysis/spike-yc-waves/`.
+- Confirmed the public schema has the needed fields: company name, batch, industries, tags, one-liner, long description, `status`, and `top_company`.
+- Ran strict tag/industry classification and broader tag/industry + description keyword classification.
+- Found directional support for the GenAI / Agents thesis:
+  - strict mode shows a real GenAI / Agents wave, peaking at 23.4% of Winter 2023;
+  - broad mode shows a much larger current wave, reaching 46.5% of Spring 2026;
+  - crypto remains narrow in YC batch composition, peaking below 10% in both modes.
+- Tightened the thesis boundary: the data supports "across many major YC categories" better than the literal phrase "inside every category."
+- Recommended indexed growth curves as the main essay chart, with small multiples and a GenAI cross-sector chart as supporting proof.
+- Added an outcome-proxy layer for the next narrative question: whether AI/agents matures more like fintech/commerce or stays narrower like crypto. The available public fields can frame the fork with `top_company`, `Public`, `Acquired`, and `Inactive`, but cannot settle it for young cohorts.
