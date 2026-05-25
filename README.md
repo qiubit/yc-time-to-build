@@ -1,4 +1,4 @@
-# The Golden Window
+# Time To Build
 
 An interactive visual essay in progress about startup waves in Y Combinator history, and why the current generative AI / agents wave may be unusually fast, broad, and cross-sector.
 
