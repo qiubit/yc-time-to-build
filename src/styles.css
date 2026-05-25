@@ -1,0 +1,368 @@
+:root {
+  color-scheme: light;
+  --ink: #17201c;
+  --muted: #5c6762;
+  --quiet: #8b948f;
+  --paper: #f7f4ee;
+  --paper-warm: #ebe6dc;
+  --line: #d4cec1;
+  --panel: #fffdf8;
+  --ai: #1d6f68;
+  --commerce: #b45f3a;
+  --fintech: #346da8;
+  --crypto: #8b7d33;
+  --web: #875f76;
+  --other: #cfc8bc;
+  --shadow: 0 20px 45px rgba(38, 33, 25, 0.08);
+  font-family:
+    Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--paper);
+  color: var(--ink);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background:
+    linear-gradient(180deg, rgba(255, 253, 248, 0.86), rgba(247, 244, 238, 0.96)),
+    repeating-linear-gradient(90deg, rgba(23, 32, 28, 0.025) 0 1px, transparent 1px 56px);
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.hero {
+  min-height: 88vh;
+  display: grid;
+  align-content: center;
+  padding: 10vh clamp(1.25rem, 5vw, 5rem) 12vh;
+  max-width: 1160px;
+  margin: 0 auto;
+}
+
+.kicker,
+.eyebrow,
+.chapter-number,
+.source-note {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.76rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.hero h1 {
+  margin: 0.35rem 0 0;
+  max-width: 11ch;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(4.25rem, 11vw, 9.5rem);
+  font-weight: 500;
+  line-height: 0.9;
+  letter-spacing: 0;
+}
+
+.lede {
+  max-width: 760px;
+  margin: 2rem 0 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.35rem, 2.5vw, 2.15rem);
+  line-height: 1.25;
+}
+
+.scrolly {
+  display: grid;
+  grid-template-columns: minmax(0, 1.25fr) minmax(330px, 0.75fr);
+  gap: clamp(1.5rem, 5vw, 5rem);
+  align-items: start;
+  max-width: 1420px;
+  margin: 0 auto;
+  padding: 0 clamp(1rem, 4vw, 4rem) 8rem;
+}
+
+.sticky-visual {
+  position: sticky;
+  top: 1rem;
+  min-height: calc(100vh - 2rem);
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  gap: 0.9rem;
+  padding: clamp(1rem, 2.4vw, 1.7rem);
+  background: rgba(255, 253, 248, 0.78);
+  border: 1px solid rgba(212, 206, 193, 0.9);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(18px);
+}
+
+.visual-header {
+  display: flex;
+  justify-content: space-between;
+  gap: 1rem;
+  align-items: start;
+}
+
+.visual-header h2 {
+  margin: 0.25rem 0 0;
+  max-width: 18ch;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.5rem, 2.7vw, 2.7rem);
+  font-weight: 500;
+  line-height: 1;
+}
+
+.mode-toggle {
+  display: flex;
+  gap: 0.25rem;
+  padding: 0.25rem;
+  margin: 0;
+  border: 1px solid var(--line);
+  background: var(--paper);
+}
+
+.mode-toggle legend {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+}
+
+.mode-toggle label {
+  cursor: pointer;
+}
+
+.mode-toggle input {
+  position: absolute;
+  opacity: 0;
+}
+
+.mode-toggle span {
+  display: block;
+  min-width: 4.1rem;
+  padding: 0.52rem 0.72rem;
+  color: var(--muted);
+  text-align: center;
+  font-size: 0.82rem;
+}
+
+.mode-toggle input:checked + span {
+  color: var(--ink);
+  background: var(--panel);
+  box-shadow: inset 0 0 0 1px var(--line);
+}
+
+.chart-shell {
+  min-height: 470px;
+  height: 100%;
+}
+
+.chart-shell svg {
+  display: block;
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.source-note {
+  line-height: 1.5;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight: 600;
+}
+
+.steps {
+  padding-top: 9vh;
+}
+
+.chapter {
+  min-height: 100vh;
+  padding: 0 0 16vh;
+}
+
+.chapter h2,
+.methodology h2 {
+  margin: 0.25rem 0 1.4rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(2.1rem, 5vw, 4.5rem);
+  font-weight: 500;
+  line-height: 0.98;
+}
+
+.step {
+  margin: 0 0 46vh;
+  padding: 1.15rem 0 1.15rem 1.1rem;
+  border-left: 2px solid transparent;
+  color: var(--muted);
+  transition:
+    color 220ms ease,
+    border-color 220ms ease,
+    transform 220ms ease;
+}
+
+.step:last-child {
+  margin-bottom: 28vh;
+}
+
+.step p {
+  max-width: 35rem;
+  margin: 0;
+  font-size: clamp(1.06rem, 1.35vw, 1.22rem);
+  line-height: 1.55;
+}
+
+.step p + p {
+  margin-top: 0.75rem;
+}
+
+.step .pull {
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(1.55rem, 2.7vw, 2.45rem);
+  line-height: 1.05;
+}
+
+.step.is-active {
+  color: var(--ink);
+  border-color: var(--ai);
+  transform: translateX(0.2rem);
+}
+
+.proof-step.is-active {
+  border-color: var(--ai);
+}
+
+.methodology {
+  max-width: 860px;
+  margin: 0 auto;
+  padding: 3rem clamp(1.25rem, 5vw, 5rem) 7rem;
+}
+
+.methodology p:last-child {
+  color: var(--muted);
+  font-size: 1.05rem;
+  line-height: 1.65;
+}
+
+.axis text,
+.legend text,
+.annotation text {
+  fill: var(--muted);
+  font-size: 12px;
+}
+
+.axis path,
+.axis line,
+.grid line {
+  stroke: var(--line);
+}
+
+.grid path {
+  display: none;
+}
+
+.chart-title {
+  fill: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 28px;
+}
+
+.chart-subtitle {
+  fill: var(--muted);
+  font-size: 14px;
+}
+
+.annotation-label {
+  fill: var(--ink);
+  font-weight: 800;
+}
+
+.annotation-note {
+  fill: var(--muted);
+  font-size: 13px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}
+
+@media (max-width: 860px) {
+  .hero {
+    min-height: 74vh;
+    padding-top: 8vh;
+  }
+
+  .scrolly {
+    display: block;
+    padding-inline: 0;
+  }
+
+  .sticky-visual {
+    top: 0;
+    z-index: 1;
+    min-height: 58vh;
+    height: 58vh;
+    border-left: 0;
+    border-right: 0;
+    padding: 0.85rem 0.9rem;
+  }
+
+  .visual-header {
+    align-items: center;
+  }
+
+  .visual-header h2 {
+    font-size: 1.4rem;
+  }
+
+  .mode-toggle span {
+    min-width: 3.6rem;
+    padding: 0.44rem 0.48rem;
+    font-size: 0.75rem;
+  }
+
+  .chart-shell {
+    min-height: 0;
+  }
+
+  .source-note {
+    display: none;
+  }
+
+  .steps {
+    padding: 5vh 1rem 0;
+  }
+
+  .chapter {
+    min-height: auto;
+    padding-bottom: 8vh;
+  }
+
+  .chapter h2 {
+    margin-bottom: 1rem;
+  }
+
+  .step {
+    margin-bottom: 48vh;
+    padding: 1rem;
+    background: rgba(255, 253, 248, 0.9);
+    border: 1px solid var(--line);
+    border-left: 3px solid transparent;
+    box-shadow: 0 12px 30px rgba(38, 33, 25, 0.06);
+  }
+
+  .step.is-active {
+    transform: none;
+    border-left-color: var(--ai);
+  }
+}
