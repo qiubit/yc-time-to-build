@@ -4,6 +4,14 @@ High-level notes on how this project evolves. This is meant to support a later b
 
 ## 2026-05-25
 
+### Tightened the Pre-Build Editorial Spine
+
+- Revised the thesis from "different" to a more specific claim: YC founders are treating generative AI / agents as both a company category and a capability layer across many other categories.
+- Softened outcome-adjacent language from "formation is proven" to "the formation signal is strong."
+- Reframed strict vs. broad classification as a range: strict likely undercounts recent agent companies, while broad may overcount because current public descriptions drift toward AI language.
+- Strengthened the Chapter 5 fork from two paths to three: fintech/commerce-style durability, crypto-like narrowness, or a substrate future where "AI company" stops being a useful label.
+- Added concrete on-screen copy for the Chapter 4 reveal and Chapter 5 fork before production UI begins.
+
 ### Reframed the Core Thesis
 
 - Started from a broad claim: the agentic AI wave is the biggest startup opportunity since the internet.

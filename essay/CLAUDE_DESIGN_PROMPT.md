@@ -19,10 +19,10 @@ Keep the claim defensible: YC data shows founder attention, speed, concentration
 
 The current working thesis is:
 
-> YC history shows several founder waves, but generative AI / agents is different: it is both a startup wave and a building block for the next generation of startups.
+> YC history shows several founder waves, but generative AI / agents is unusual: YC founders are treating it as both a company category and a capability layer across many other categories.
 
 The important narrative fork is:
 
-> AI / agents has strong formation evidence now, but the outcome question is still open: does it mature like fintech and commerce, or stay narrower like crypto?
+> AI / agents has a strong formation signal now, but the outcome question is still open: does it mature like fintech and commerce, stay narrower like crypto, or become such a broad substrate that "AI company" stops being a useful label?
 
 Use `yc-oss/api` as the reproducible data source and ExploreYC only as product inspiration unless a stable open dataset is clearly available.

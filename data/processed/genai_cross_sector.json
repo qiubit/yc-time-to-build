@@ -1,0 +1,64 @@
+{
+  "schema_version": 1,
+  "description": "Background sector shares among companies classified as Generative AI / Agents in broad mode. Intended for the cross-sector capability chart.",
+  "source_snapshot": "2026-05-25T02:36:05.148Z",
+  "mode": "broad",
+  "classification_note": "Description-aware broad read: strict classification plus conservative keyword matching on company name, one-liner, and long description. It better captures current language but is more exposed to metadata drift.",
+  "total_genai_companies": 1072,
+  "rows": [
+    {
+      "mode": "broad",
+      "sector": "B2B / Enterprise",
+      "count": 502,
+      "pct_of_genai_broad": 0.46828358208955223
+    },
+    {
+      "mode": "broad",
+      "sector": "Developer Tools / Infrastructure",
+      "count": 255,
+      "pct_of_genai_broad": 0.23787313432835822
+    },
+    {
+      "mode": "broad",
+      "sector": "Fintech",
+      "count": 119,
+      "pct_of_genai_broad": 0.11100746268656717
+    },
+    {
+      "mode": "broad",
+      "sector": "Healthcare",
+      "count": 87,
+      "pct_of_genai_broad": 0.08115671641791045
+    },
+    {
+      "mode": "broad",
+      "sector": "Consumer / Media / Education",
+      "count": 72,
+      "pct_of_genai_broad": 0.06716417910447761
+    },
+    {
+      "mode": "broad",
+      "sector": "Industrials / Hard Tech",
+      "count": 17,
+      "pct_of_genai_broad": 0.01585820895522388
+    },
+    {
+      "mode": "broad",
+      "sector": "Real Estate / Construction",
+      "count": 13,
+      "pct_of_genai_broad": 0.012126865671641791
+    },
+    {
+      "mode": "broad",
+      "sector": "Commerce / Marketplace / Logistics",
+      "count": 4,
+      "pct_of_genai_broad": 0.0037313432835820895
+    },
+    {
+      "mode": "broad",
+      "sector": "Legal / Gov",
+      "count": 3,
+      "pct_of_genai_broad": 0.002798507462686567
+    }
+  ]
+}

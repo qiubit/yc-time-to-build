@@ -10,11 +10,11 @@ Mode: Builder
 
 Aspiring founders don't know when to build what. They wonder if they're too early, too late, or whether the current moment is actually special — or just feels that way. There's no piece of writing that makes the case *with data*, using 20 years of YC batch history as the evidence base.
 
-The generative AI / agent wave appears to be one of the fastest and broadest founder-attention waves in YC history. That claim needs proof, not assertion. YC batch composition is a 20-year leading indicator of where ambitious founders bet their careers. The data shows something extraordinary happening right now, but the durable outcome question is still open: does AI / agents mature like fintech and commerce, or stay narrower like crypto?
+The generative AI / agent wave appears to be one of the fastest and broadest recent founder-attention waves in YC history. That claim needs evidence, not assertion. YC batch composition is a 20-year leading indicator of where ambitious founders bet their careers. The data shows a strong current formation signal, but the durable outcome question is still open: does AI / agents mature like fintech and commerce, stay narrower like crypto, or become such a broad substrate that "AI company" stops being a useful label?
 
 ## What Makes This Cool
 
-The "whoa" is not "look at all these waves." It's: **"YC history has seen real founder waves before. AI / agents is different because it is both a startup wave of its own and a building block for many other kinds of startups."**
+The "whoa" is not "look at all these waves." It's: **"YC history has seen real founder waves before. AI / agents is unusual because YC founders are treating it as both a company category and a capability layer across many other categories."**
 
 The essay builds to one specific, defensible claim: YC data shows generative AI / agents becoming unusually fast and cross-sector in founder attention — commerce, fintech, and crypto included as comparators. Every wave chart, every historical comparison, every interactive moment in the essay exists to support that claim while staying honest about what batch composition cannot yet prove.
 
@@ -52,7 +52,7 @@ Canonical background sectors (~20-30, used for cross-sector spread and optional 
 
 **Category taxonomy — v1 prerequisite:** A manual mapping of YC's inconsistent historical tags to the canonical waves above. 3-5 hours. This is different from the backlog item "NLP-assisted taxonomy normalization" (which refines edge cases at scale); the manual map is the one-time baseline that makes the wave chart possible at all. Batches with zero entries for a wave are plotted as 0%, not omitted. Data gaps before W08 (early YC era, <9 companies/batch) are annotated on the timeline rather than extrapolated.
 
-**Methodology caveat:** YC tags and one-liners are current/public company-profile metadata, not a frozen record of what each company called itself during its YC batch. The essay must disclose this. V1 should include the sensitivity check validated in the spike: strict tag/industry classification vs. broader tag/industry + one-liner/description keyword classification. Strict mode gives the conservative lower bound; broad mode captures the current AI / agents signal but must be caveated for metadata drift.
+**Methodology caveat:** YC tags and one-liners are current/public company-profile metadata, not a frozen record of what each company called itself during its YC batch. The essay must disclose this. V1 should include the sensitivity check validated in the spike: strict tag/industry classification vs. broader tag/industry + one-liner/description keyword classification. Strict mode likely undercounts recent agent companies because it only uses structured tags/industries; broad mode may overcount because current public descriptions drift toward AI language. Treat the result as a range, not a single truth.
 
 Estimated payload: ~800-1200 rows (20-30 categories × ~40 batches) × ~120 bytes each = ~100-150KB uncompressed. Gzip compression (~70%) yields ~30-45KB. Target < 50KB compressed is achievable; do not include per-company lists in the baked JSON (lazy-load or omit in v1).
 
@@ -60,11 +60,11 @@ Estimated payload: ~800-1200 rows (20-30 categories × ~40 batches) × ~120 byte
 
 1. YC batch composition is a meaningful **leading indicator** of founder attention and technology wave timing — ambitious founders apply before the market has fully settled what the wave means.
 2. YC batch composition does **not** prove "biggest opportunity in startup history" by itself. It can show founder attention, speed, concentration, and cross-sector spread. Durable opportunity requires separate evidence: outcomes, revenue, valuations, funding, or public/exited/top-company status.
-3. The core artifact is a **thesis-driven essay with data as evidence**, not a wave explorer or company search tool. The thesis: "YC history shows several founder waves. Generative AI / agents is different because it is both a startup wave and a building block for many other kinds of startups."
+3. The core artifact is a **thesis-driven essay with data as evidence**, not a wave explorer or company search tool. The thesis: "YC history shows several founder waves. Generative AI / agents is unusual because YC founders are treating it as both a company category and a capability layer across many other categories."
 4. Twitter virality requires one **embeddable, self-contained visual moment** — a screenshot or clip that works as a tweet before anyone clicks a link. For this essay, that moment is the chart comparing the AI wave's growth curve to prior waves — not neutral, not open-ended, but visually making the case.
 5. The **story comes first**. The thesis, the narrative arc, and the final call to action are the load-bearing pieces. The wave chart is evidence. The AI agent / deeper exploration is a fork at the end, not the entry point.
 6. Use **ExploreYC as product inspiration and `yc-oss/api` as the reproducible evidence layer**. Revisit ExploreYC only if it later exposes a stable open export with clearer normalized data.
-7. The honest unresolved question is the **outcome fork**: AI / agents has strong founder-formation evidence now, but the available public outcome proxies cannot yet say whether it will mature like fintech/commerce or stay narrower like crypto.
+7. The honest unresolved question is the **outcome fork**: AI / agents has a strong founder-formation signal now, but the available public outcome proxies cannot yet say whether it will mature like fintech/commerce, stay narrower like crypto, or become such a broad substrate that "AI company" stops being a useful label.
 
 ## Validated Wave Set
 
@@ -107,13 +107,13 @@ Write the wave essay as a reactive, forkable Observable notebook. Fastest protot
 1. **Hook:** "YC history has seen founder waves before. This one is moving faster." (Full-bleed, minimal text, wave animation starts)
 2. **The durable waves:** Walk through mobile-enabled commerce / marketplaces and fintech using YC batch composition plus lightweight outcome proxies. Show how real platform shifts created durable companies, while disclosing that outcomes require lagging evidence.
 3. **The cautionary wave:** Show crypto/Web3. It was loud, important, and produced Coinbase, but inside YC it appears narrower than its cultural footprint. This makes the reader trust the essay because the chart is allowed to complicate the story.
-4. **The current wave:** Zoom into generative AI / agents. Show the indexed growth curve and then split it by sector. The claim is not just "more AI companies." It is "AI / agents is both its own startup wave and a building block inside many other kinds of startups."
-5. **The fork:** Put the uncertainty on screen. AI / agents has strong formation evidence now; whether it becomes more like fintech/commerce or more like crypto requires outcome evidence over time.
+4. **The current wave:** Zoom into generative AI / agents. Show the indexed growth curve and then split it by sector. The claim is not just "more AI companies." It is "AI / agents is both a company category and a capability layer inside many other kinds of startups."
+5. **The fork:** Put the uncertainty on screen. AI / agents has a strong formation signal now; whether it becomes more like fintech/commerce, more like crypto, or more like a broad substrate requires outcome evidence over time.
 6. **The call:** "The window is open. It won't be for long. Here's how to get started." Link to YC application, link to deeper exploration.
 
 ## Open Questions
 
-1. What is the strongest one-sentence thesis now that the spike tightened the language? Current candidate: "YC history shows several founder waves, but generative AI / agents is different: it is both a startup wave and a building block for the next generation of startups."
+1. What is the strongest one-sentence thesis now that the spike tightened the language? Current candidate: "YC history shows several founder waves, but generative AI / agents is unusual: YC founders are treating it as both a company category and a capability layer across many other categories."
 2. How much of the strict vs. broad methodology should appear in the main essay versus an appendix?
 3. Should the outcome fork be a full chapter, or a shorter caveat panel after the main AI wave reveal?
 4. Should the "cost of waiting" section be cut from v1? YC directory data alone likely cannot support it; it requires outcome data from Crunchbase, AngelList, ExploreYC funding enrichment, or another source.
@@ -146,7 +146,7 @@ Dependencies: Step 1 is complete. Step 2 must complete before Step 4.
 
 ## The Assignment
 
-Before writing a single line of production code: write the thesis sentence — one sentence, not a paragraph. Working version: "YC history shows several founder waves, but generative AI / agents is different: it is both a startup wave and a building block for the next generation of startups." If you can't write that sentence without hedging, the essay won't convince anyone. The data spike is complete; the next gate is whether the narrative outline makes the formation signal, the cross-sector spread, and the outcome fork feel like one coherent story.
+Before writing a single line of production code: write the thesis sentence — one sentence, not a paragraph. Working version: "YC history shows several founder waves, but generative AI / agents is unusual: YC founders are treating it as both a company category and a capability layer across many other categories." If you can't write that sentence without hedging, the essay won't convince anyone. The data spike is complete; the next gate is whether the narrative outline makes the formation signal, the cross-sector spread, and the outcome fork feel like one coherent story.
 
 ## What I noticed about how you think
 

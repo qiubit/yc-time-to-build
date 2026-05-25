@@ -2,7 +2,7 @@
 
 A short reference study to inform the production build (Step 3 in `DESIGN.md`). It distills three formats — Nicky Case's playable explanations, The Pudding's editorial scrollytelling, and Bartosz Ciechanowski's embedded explanations — into concrete guidance for *this* essay. Not UI, not code: the rules the build should follow and the traps it should avoid.
 
-The essay's job, set by `ESSAY_OUTLINE.md`: walk a skeptic from "now just feels special" to "the leading indicator says build now" across six chapters, with the Chapter 4 indexed-growth reveal as the shareable moment and the Chapter 5 fork as the credibility keystone.
+The essay's job, set by `ESSAY_OUTLINE.md`: walk a skeptic from "now just feels special" to "the leading indicator says this is a real moment to build into" across six chapters, with the Chapter 4 indexed-growth reveal as the shareable moment and the Chapter 5 fork as the credibility keystone.
 
 ---
 
@@ -41,7 +41,7 @@ What we take from each: Case's *belief-moving pacing*, The Pudding's *sticky-cha
 ## Interaction
 
 - **Default to scroll-driven, not click-driven.** The Pudding pattern: scrolling *is* the interaction; each scroll step advances the visual. The reader gets the whole argument by doing nothing but scrolling — interactivity is enhancement, not a gate.
-- **The one real control is the strict/broad toggle (Chapter 4).** This is the essay's signature interaction and its integrity move at once: the reader switches the conservative lower bound (strict, 23.4% peak) against the current broad read (46.5% peak) and watches the AI line move. Make it feel like *you* checking the author's honesty, Case-style — participation that builds trust.
+- **The one real control is the strict/broad toggle (Chapter 4).** This is the essay's signature interaction and its integrity move at once: the reader switches between a tag-only strict read (23.4% peak) and a broader description-aware read (46.5% peak) and watches the AI line move. Make it feel like *you* checking the author's honesty, Case-style — participation that builds trust.
 - **Hover/tap reveals detail, never hides essential meaning.** Batch counts, exact percentages, company examples surface on demand. But the core claim must read with zero interaction (mobile, screenshot, scroll-past-fast all have to work).
 - **Every interaction teaches one thing.** Ciechanowski's rule: no decorative interactivity. If a control doesn't change what the reader believes, cut it. The toggle changes belief (shows the range is real); a parallax flourish does not.
 - **Respect the lurker and the screenshotter.** Many readers won't touch anything and many will only see a screenshot. The essay must fully land for both. Interactivity is the bonus layer for the engaged reader, never the load-bearing one.
@@ -51,11 +51,11 @@ What we take from each: Case's *belief-moving pacing*, The Pudding's *sticky-cha
 
 ## Tone
 
-- **Confident thesis, honest evidence.** Unlike The Pudding's neutrality, we have an argument and state it plainly (the outline's thesis sentence). But every claim stays on the defensible side: formation is proven, outcomes are open. Confidence about *what the data shows*, humility about *what it can't*.
+- **Confident thesis, honest evidence.** Unlike The Pudding's neutrality, we have an argument and state it plainly (the outline's thesis sentence). But every claim stays on the defensible side: the formation signal is strong, outcomes are open. Confidence about *what the data shows*, humility about *what it can't*.
 - **Plain, warm, direct — Case's register.** Second person ("you"), short sentences, no jargon wall. "Waves have come before" not "Historical cohort analysis reveals cyclical founder-attention patterns." The reader is a smart peer, not a student.
 - **Let the chart make the point; don't oversell in prose.** The Pudding discipline: state what the chart shows, then stop. If the prose has to insist the data is impressive, the chart isn't doing its job — fix the chart.
 - **Caveats in the same voice as claims.** Don't switch to defensive legalese for the methodology notes. "These tags are today's labels, not what companies called themselves back then — so we show you both reads and let you decide" is on-voice. Honesty stated warmly reads as strength.
-- **Earn the call to action.** Chapter 6 can be motivating without being a pitch, because it rests only on the proven formation claim. "The leading indicator says now" — not "you'll definitely win."
+- **Earn the call to action.** Chapter 6 can be motivating without being a pitch, because it rests only on the strong founder-attention signal. "This is a real moment to build into" — not "you'll definitely win."
 
 ---
 

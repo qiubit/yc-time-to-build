@@ -1,0 +1,523 @@
+{
+  "schema_version": 1,
+  "description": "Source, snapshot, methodology, and caveats for processed data.",
+  "source": {
+    "name": "yc-oss/api",
+    "api_url": "https://yc-oss.github.io/api/companies/all.json",
+    "repo_url": "https://github.com/yc-oss/api",
+    "snapshot_timestamp": "2026-05-25T02:36:05.148Z",
+    "downloaded_companies": 5926,
+    "included_companies": 5916,
+    "included_batch_count": 46,
+    "excluded_batch_labels": [
+      "Fall 2026",
+      "Summer 2026",
+      "Unspecified",
+      "Winter 2027"
+    ]
+  },
+  "included_batch_labels": [
+    "Summer 2005",
+    "Winter 2006",
+    "Summer 2006",
+    "Winter 2007",
+    "Summer 2007",
+    "Winter 2008",
+    "Summer 2008",
+    "Winter 2009",
+    "Summer 2009",
+    "Winter 2010",
+    "Summer 2010",
+    "Winter 2011",
+    "Summer 2011",
+    "Winter 2012",
+    "Summer 2012",
+    "Winter 2013",
+    "Summer 2013",
+    "Winter 2014",
+    "Summer 2014",
+    "Winter 2015",
+    "Summer 2015",
+    "Winter 2016",
+    "Summer 2016",
+    "Winter 2017",
+    "Summer 2017",
+    "Winter 2018",
+    "Summer 2018",
+    "Winter 2019",
+    "Summer 2019",
+    "Winter 2020",
+    "Summer 2020",
+    "Winter 2021",
+    "Summer 2021",
+    "Winter 2022",
+    "Summer 2022",
+    "Winter 2023",
+    "Summer 2023",
+    "Winter 2024",
+    "Summer 2024",
+    "Fall 2024",
+    "Winter 2025",
+    "Spring 2025",
+    "Summer 2025",
+    "Fall 2025",
+    "Winter 2026",
+    "Spring 2026"
+  ],
+  "included_batches": [
+    {
+      "batch": "Summer 2005",
+      "batch_code": "S05",
+      "year": 2005,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 9,
+      "batch_order": 0
+    },
+    {
+      "batch": "Winter 2006",
+      "batch_code": "W06",
+      "year": 2006,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 7,
+      "batch_order": 1
+    },
+    {
+      "batch": "Summer 2006",
+      "batch_code": "S06",
+      "year": 2006,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 11,
+      "batch_order": 2
+    },
+    {
+      "batch": "Winter 2007",
+      "batch_code": "W07",
+      "year": 2007,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 13,
+      "batch_order": 3
+    },
+    {
+      "batch": "Summer 2007",
+      "batch_code": "S07",
+      "year": 2007,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 19,
+      "batch_order": 4
+    },
+    {
+      "batch": "Winter 2008",
+      "batch_code": "W08",
+      "year": 2008,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 21,
+      "batch_order": 5
+    },
+    {
+      "batch": "Summer 2008",
+      "batch_code": "S08",
+      "year": 2008,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 22,
+      "batch_order": 6
+    },
+    {
+      "batch": "Winter 2009",
+      "batch_code": "W09",
+      "year": 2009,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 16,
+      "batch_order": 7
+    },
+    {
+      "batch": "Summer 2009",
+      "batch_code": "S09",
+      "year": 2009,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 26,
+      "batch_order": 8
+    },
+    {
+      "batch": "Winter 2010",
+      "batch_code": "W10",
+      "year": 2010,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 27,
+      "batch_order": 9
+    },
+    {
+      "batch": "Summer 2010",
+      "batch_code": "S10",
+      "year": 2010,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 36,
+      "batch_order": 10
+    },
+    {
+      "batch": "Winter 2011",
+      "batch_code": "W11",
+      "year": 2011,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 45,
+      "batch_order": 11
+    },
+    {
+      "batch": "Summer 2011",
+      "batch_code": "S11",
+      "year": 2011,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 60,
+      "batch_order": 12
+    },
+    {
+      "batch": "Winter 2012",
+      "batch_code": "W12",
+      "year": 2012,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 66,
+      "batch_order": 13
+    },
+    {
+      "batch": "Summer 2012",
+      "batch_code": "S12",
+      "year": 2012,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 83,
+      "batch_order": 14
+    },
+    {
+      "batch": "Winter 2013",
+      "batch_code": "W13",
+      "year": 2013,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 46,
+      "batch_order": 15
+    },
+    {
+      "batch": "Summer 2013",
+      "batch_code": "S13",
+      "year": 2013,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 52,
+      "batch_order": 16
+    },
+    {
+      "batch": "Winter 2014",
+      "batch_code": "W14",
+      "year": 2014,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 74,
+      "batch_order": 17
+    },
+    {
+      "batch": "Summer 2014",
+      "batch_code": "S14",
+      "year": 2014,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 78,
+      "batch_order": 18
+    },
+    {
+      "batch": "Winter 2015",
+      "batch_code": "W15",
+      "year": 2015,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 111,
+      "batch_order": 19
+    },
+    {
+      "batch": "Summer 2015",
+      "batch_code": "S15",
+      "year": 2015,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 104,
+      "batch_order": 20
+    },
+    {
+      "batch": "Winter 2016",
+      "batch_code": "W16",
+      "year": 2016,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 122,
+      "batch_order": 21
+    },
+    {
+      "batch": "Summer 2016",
+      "batch_code": "S16",
+      "year": 2016,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 102,
+      "batch_order": 22
+    },
+    {
+      "batch": "Winter 2017",
+      "batch_code": "W17",
+      "year": 2017,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 116,
+      "batch_order": 23
+    },
+    {
+      "batch": "Summer 2017",
+      "batch_code": "S17",
+      "year": 2017,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 125,
+      "batch_order": 24
+    },
+    {
+      "batch": "Winter 2018",
+      "batch_code": "W18",
+      "year": 2018,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 146,
+      "batch_order": 25
+    },
+    {
+      "batch": "Summer 2018",
+      "batch_code": "S18",
+      "year": 2018,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 131,
+      "batch_order": 26
+    },
+    {
+      "batch": "Winter 2019",
+      "batch_code": "W19",
+      "year": 2019,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 195,
+      "batch_order": 27
+    },
+    {
+      "batch": "Summer 2019",
+      "batch_code": "S19",
+      "year": 2019,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 176,
+      "batch_order": 28
+    },
+    {
+      "batch": "Winter 2020",
+      "batch_code": "W20",
+      "year": 2020,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 229,
+      "batch_order": 29
+    },
+    {
+      "batch": "Summer 2020",
+      "batch_code": "S20",
+      "year": 2020,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 208,
+      "batch_order": 30
+    },
+    {
+      "batch": "Winter 2021",
+      "batch_code": "W21",
+      "year": 2021,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 336,
+      "batch_order": 31
+    },
+    {
+      "batch": "Summer 2021",
+      "batch_code": "S21",
+      "year": 2021,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 391,
+      "batch_order": 32
+    },
+    {
+      "batch": "Winter 2022",
+      "batch_code": "W22",
+      "year": 2022,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 398,
+      "batch_order": 33
+    },
+    {
+      "batch": "Summer 2022",
+      "batch_code": "S22",
+      "year": 2022,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 234,
+      "batch_order": 34
+    },
+    {
+      "batch": "Winter 2023",
+      "batch_code": "W23",
+      "year": 2023,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 274,
+      "batch_order": 35
+    },
+    {
+      "batch": "Summer 2023",
+      "batch_code": "S23",
+      "year": 2023,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 220,
+      "batch_order": 36
+    },
+    {
+      "batch": "Winter 2024",
+      "batch_code": "W24",
+      "year": 2024,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 249,
+      "batch_order": 37
+    },
+    {
+      "batch": "Summer 2024",
+      "batch_code": "S24",
+      "year": 2024,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 248,
+      "batch_order": 38
+    },
+    {
+      "batch": "Fall 2024",
+      "batch_code": "F24",
+      "year": 2024,
+      "season": "Fall",
+      "season_order": 3,
+      "total_companies": 94,
+      "batch_order": 39
+    },
+    {
+      "batch": "Winter 2025",
+      "batch_code": "W25",
+      "year": 2025,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 168,
+      "batch_order": 40
+    },
+    {
+      "batch": "Spring 2025",
+      "batch_code": "Sp25",
+      "year": 2025,
+      "season": "Spring",
+      "season_order": 1,
+      "total_companies": 144,
+      "batch_order": 41
+    },
+    {
+      "batch": "Summer 2025",
+      "batch_code": "S25",
+      "year": 2025,
+      "season": "Summer",
+      "season_order": 2,
+      "total_companies": 166,
+      "batch_order": 42
+    },
+    {
+      "batch": "Fall 2025",
+      "batch_code": "F25",
+      "year": 2025,
+      "season": "Fall",
+      "season_order": 3,
+      "total_companies": 148,
+      "batch_order": 43
+    },
+    {
+      "batch": "Winter 2026",
+      "batch_code": "W26",
+      "year": 2026,
+      "season": "Winter",
+      "season_order": 0,
+      "total_companies": 198,
+      "batch_order": 44
+    },
+    {
+      "batch": "Spring 2026",
+      "batch_code": "Sp26",
+      "year": 2026,
+      "season": "Spring",
+      "season_order": 1,
+      "total_companies": 172,
+      "batch_order": 45
+    }
+  ],
+  "classification_modes": {
+    "strict": "Tag-only strict read: exact tags, industries, industry, and subindustry matches only. It likely undercounts recent agent companies.",
+    "broad": "Description-aware broad read: strict classification plus conservative keyword matching on company name, one-liner, and long description. It better captures current language but is more exposed to metadata drift."
+  },
+  "waves": [
+    "Web / Social / UGC",
+    "Mobile-Enabled Commerce / Marketplaces",
+    "Fintech",
+    "Crypto / Web3",
+    "Generative AI / Agents",
+    "Other"
+  ],
+  "methodology_notes": [
+    "Each company is assigned to exactly one headline wave so stacked area charts sum to 100% per batch.",
+    "Wave precedence is Generative AI / Agents, Crypto / Web3, Fintech, Mobile-Enabled Commerce / Marketplaces, Web / Social / UGC, then Other.",
+    "Generic AI, artificial intelligence, machine learning, computer vision, robotics, and drug discovery are not enough by themselves to classify a company as Generative AI / Agents.",
+    "Batch composition is treated as a leading indicator of founder attention, not proof of market size, revenue, valuation, or durable outcomes."
+  ],
+  "caveats": [
+    "YC public tags and one-liners are current profile metadata, not frozen batch-time descriptions. Older companies can carry newer AI language.",
+    "Strict mode likely undercounts newer agent companies; broad mode may overcount because current profile language drifts toward AI.",
+    "Exclusive wave assignment hides overlap. For example, fintech companies with agent products are counted as Generative AI / Agents because that wave has precedence.",
+    "Outcome proxies are lagging and incomplete. They favor older cohorts and should not be used to judge 2024-2026 companies.",
+    "Early YC batches are tiny, so early percentages are noisy."
+  ],
+  "outcome_proxy_note": "Outcome proxies use public yc-oss/api fields only: top_company and status values Public, Acquired, and Inactive. They are lagging and incomplete, so mature cohorts through 2020 should be the primary view.",
+  "spike_inputs": {
+    "summary": "analysis/spike-yc-waves/output/summary.json",
+    "wave_by_batch": [
+      "analysis/spike-yc-waves/output/wave_by_batch_strict.csv",
+      "analysis/spike-yc-waves/output/wave_by_batch_broad.csv"
+    ],
+    "genai_cross_sector": "analysis/spike-yc-waves/output/genai_broad_background_sectors.csv",
+    "outcome_proxies": [
+      "analysis/spike-yc-waves/output/outcome_proxy_by_wave_strict_all.csv",
+      "analysis/spike-yc-waves/output/outcome_proxy_by_wave_broad_all.csv",
+      "analysis/spike-yc-waves/output/outcome_proxy_by_wave_strict_through_2020.csv",
+      "analysis/spike-yc-waves/output/outcome_proxy_by_wave_broad_through_2020.csv"
+    ]
+  }
+}
